@@ -1,0 +1,10 @@
+Package: lazydocker
+Version: version
+Architecture: arch
+Maintainer: wcbing <i@wcbing.top>
+Section: utils
+Priority: optional
+Homepage: https://github.com/jesseduffield/lazydocker
+Description: The lazier way to manage everything docker
+ A simple terminal UI for both docker and docker-compose,
+ written in Go with the gocui library.
